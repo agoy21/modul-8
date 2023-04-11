@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatrioAgulArumbino modul8_NIM", "SatrioAgulArumbino modul8_NIM\SatrioAgulArumbino modul8_NIM.csproj", "{5DECEE90-F5CE-4020-9E53-41B44E0C7CA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DECEE90-F5CE-4020-9E53-41B44E0C7CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DECEE90-F5CE-4020-9E53-41B44E0C7CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DECEE90-F5CE-4020-9E53-41B44E0C7CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DECEE90-F5CE-4020-9E53-41B44E0C7CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D157EEE-4EA3-4A8C-A09F-317B86CC93EC}
+	EndGlobalSection
+EndGlobal
